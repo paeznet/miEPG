@@ -1,14 +1,62 @@
-La 1 HD,La 1 Super UHD 4k
+Movistar Plus+ HD,M.Plus 1080 Elcano Antiguas
+Movistar Plus+ HD,MOVISTAR PLUS FHD --> NEW ERA
+Movistar Plus+ HD,Movistar Plus+ 1080
+Movistar Plus+ HD,Movistar Plus+ New Era I
+Movistar Plus+ 2 HD,MOVISTAR PLUS 2 FHD --> NEW ERALa 1 HD,La 1 Super UHD 4k
+
+
+La 1 HD,La1 Elcano Antiguas
+La 1 HD,La1 UHD Elcano Antiguas
+La 1 HD,LA 1 FHD --> NEW ERA
+La 1 HD,la 1 uhd
+La 1 HD,la1
+La 1 HD,es 1
 La 2,La 2 Super Full HD 8k
+La 2,LA 2 FHD --> NEW ERA
+La 2,la 2
+La 2,es 2
+Antena 3 HD,ANTENA 3 FHD --> NEW ERA
+Cuatro HD,CUATRO FHD --> NEW ERA
+Cuatro HD,cuatro
+Telecinco HD,Telecinco 1080 Elcano Antiguas
+Telecinco HD,TELECINCO FHD --> NEW ERA
+Telecinco HD,t5
+La Sexta HD,LA SEXTA FHD --> NEW ERA
 ETB1,ETB 1
 ETB2,ETB 2
-Star TVE HD,
+Star TVE HD,Star TVE HD
+Canal Hollywood HD,HOLLYWOOD FHD --> NEW ERA II
+M+ Acción HD,MOVISTAR ACCION FHD --> NEW ERA
+M+ Clásicos HD,MOVISTAR CLASICOS FHD --> NEW ERA
+M+ Comedia HD,MOVISTAR COMEDIA FHD --> NEW ERA II
+M+ Comedia HD,COMEDIA
+M+ Hits HD,MOVISTAR SERIES FHD --> NEW ERA
+Mega,MEGA FHD --> NEW ERA II
+STAR Channel HD,FOX FHD --> NEW ERA II
+
+Real Madrid TV,REAL MADRID TV 1080
+Real Madrid TV,REAL MADRID TV 720
+Top Barça,barsa tv
+
+GOL PLAY,GOL PLAY FHD --> NEW ERA
+GOL PLAY,gol tv
+DE | Rally TV,RALLY TV --> NEW ERA III
+Onetoro,ONETORO (solo eventos)--> NEW ERA III
+
+Teledeporte,tdp 1080 Elcano Antiguas
+Teledeporte,TELEDEPORTE FHD --> NEW ERA
+Teledeporte,td
+Teledeporte,Teledeporte New Era I
+
 M+ Deportes HD,M. Deportes
 M+ Deportes HD,M. Deportes 1080 Elcano Antiguas
 M+ Deportes HD,M. Deportes 720 Elcano Antiguas
 M+ Deportes HD,MOVISTAR DEPORTES FHD --> NEW ERA
 M+ Deportes 2 HD,M. Deportes 2 1080 Elcano Antiguas
 M+ Deportes 2 HD,MOVISTAR DEPORTES 2 FHD --> NEW ERA
+M+ Deportes 2 HD,M+ Deportes 2 1080
+M+ Deportes 2 HD,M+ Deportes 2 720
+
 M+ Deportes 3,M. Deportes 3 1080 Elcano Antiguas
 M+ Deportes 3,MOVISTAR DEPORTES 3 FHD --> NEW ERA
 M+ Deportes 4,M. Deportes 4 1080 Elcano Antiguas
@@ -26,12 +74,54 @@ M+ Vamos HD,MOVISTAR VAMOS FHD --> NEW ERA
 M+ Vamos HD,MOVISTAR VAMOS FHD --> NEW ERA II
 
 M+ Golf HD,M. Golf
+M+ Golf HD,M. Golf 1080 Elcano Antiguas
+M+ Golf HD,MOVISTAR GOLF FHD --> NEW ERA
+M+ Golf 2 HD,M. Golf2 1080 Elcano Antiguas
+M+ Golf 2 HD,MOVISTAR GOLF 2 FHD --> NEW ERA
+
+M+ Wimbledon UHD,WIMBLEDON UHD
+M+ Wimbledon UHD,M+ Wimbledon UHD New Era I
 
 DAZN LaLiga HD,DAZN LaLiga 1080 MultiAudio ELCANO
 DAZN LaLiga HD,DAZN LaLiga 720 ELCANO
+DAZN LaLiga HD,DAZN LA LIGA
 DAZN LaLiga 2 HD,DAZN LaLiga 2 1080 MultiAudio ELCANO
 DAZN LaLiga 2 HD,DAZN LaLiga 2 720 MultiAudio ELCANO
+DAZN LaLiga 2 HD,DAZN LA LIGA 2
 
+
+
+DAZN 1 HD,DAZN 1 1080 Elcano Antiguas
+DAZN 1 HD,DAZN 1 720 Elcano Antiguas
+DAZN 1 HD,DAZN 1 FHD --> NEW ERA
+DAZN 1 HD,DAZN 1 BAR FHD --> NEW ERA
+DAZN 1 HD,DAZN 1
+DAZN 2 HD,DAZN 2 1080 Elcano Antiguas
+DAZN 2 HD,DAZN 2 720 Elcano Antiguas
+DAZN 2 HD,DAZN 2 FHD --> NEW ERA
+DAZN 2 HD,DAZN 2 BAR FHD --> NEW ERA
+DAZN 3 HD,DAZN 3 1080 Elcano Antiguas
+DAZN 3 HD,DAZN 3 720 Elcano Antiguas
+DAZN 3 HD,DAZN 3 FHD --> NEW ERA
+DAZN 3 HD,DAZN 3 BAR FHD --> NEW ERA
+DAZN 4 HD,DAZN 4 1080 Elcano Antiguas
+DAZN 4 HD,DAZN 4 720 Elcano Antiguas
+DAZN 4 HD,DAZN 4 FHD --> NEW ERA
+DAZN 4 HD,DAZN 4 BAR FHD --> NEW ERA
+
+
+DAZN F1 HD,DAZN F1 1080 (Fórmula 1) ELCANO
+DAZN F1 HD,DAZN F1 720 (Fórmula 1) ELCANO
+DAZN F1 HD,DAZN F1 4K --> NEW ERA
+DAZN F1 HD,DAZN F1 FHD --> NEW ERA
+DAZN F1 HD,DAZN F1 FHD --> NEW ERA II
+DAZN F1 HD,DAZN F1
+
+Eurosport 1 HD,EuroSport 1 1080 Elcano Antiguas
+Eurosport 1 HD,EUROSPORT 1 FHD --> NEW ERA
+Eurosport 2,EuroSport 2 1080 Elcano Antiguas
+Eurosport 2,EUROSPORT 2 FHD --> NEW ERA
+Eurosport 2,EUROSPORT 2 FHD --> NEW ERA II
 
 
 LaLiga TV BAR HD,La Liga BAR 1080 ELCANO
@@ -42,12 +132,37 @@ M+ LaLiga TV HD,M. LaLiga 1080 MultiAudio ELCANO
 M+ LaLiga TV HD,M. LaLiga 720 ELCANO
 M+ LaLiga TV 2 HD,M. LaLiga 2 1080 ELCANO
 M+ LaLiga TV 2 HD,M. LaLiga 2 720 ELCANO
+M+ LaLiga TV 2 HD,LA LIGA TV2 M+
 M+ LaLiga TV 3 HD,M. LaLiga 3
+M+ LaLiga TV 3 HD,LA LIGA TV3 M+
 M+ LaLiga TV 4,M. LaLiga 4
 M+ LaLiga TV 5,M. LaLiga 5
 M+ LaLiga TV 6,M. LaLiga 6
+M+ LaLiga TV HD,M+ LIGA UHD
+M+ LaLiga TV HD,LA LIGA M+
 
+
+LaLiga TV Hypermotion HD,LaLiga Smartbank 1080 ELCANO
+LaLiga TV Hypermotion HD,LaLiga Smartbank 720 ELCANO
+LaLiga TV Hypermotion HD,HYPERMOTION FHD --> NEW ERA II
+LaLiga TV Hypermotion 2,LaLiga Smartbank 2 1080 ELCANO
+LaLiga TV Hypermotion 2,LaLiga Smartbank 2 720 ELCANO
+LaLiga TV Hypermotion 3,LaLiga Smartbank 3 ELCANO
+LaLiga TV Hypermotion HD,LA LIGA HIPERMOTION
+
+M+ Liga de Campeones HDR,LIGA DE CAMPEONES 4K --> NEW ERA
 M+ Liga de Campeones HD,M.L. Campeones
+M+ Liga de Campeones HD,M.L. Campeones 1080 MultiAudio Elcano Antiguas
+M+ Liga de Campeones HD,LIGA DE CAMPEONES FHD --> NEW ERA
+M+ Liga de Campeones 2 HD,M.L. Campeones 2 1080 Elcano Antiguas
+M+ Liga de Campeones 2 HD,M.L. Campeones 2 720 Elcano Antiguas
+M+ Liga de Campeones 2 HD,LIGA DE CAMPEONES 2 FHD --> NEW ERA
+M+ Liga de Campeones 3 HD,M.L. Campeones 3 1080 Elcano Antiguas
+M+ Liga de Campeones 3 HD,M.L. Campeones 3 720 Elcano Antiguas
+M+ Liga de Campeones 3 HD,LIGA DE CAMPEONES 3 FHD --> NEW ERA
+M+ Liga de Campeones HD,CAMPEONES UHD
+M+ Liga de Campeones 2 HD,CAMPEONES 2
+M+ Liga de Campeones 3 HD,CAMPEONES 3
 
 Red Bull TV,RED BULL TV
 
