@@ -7,10 +7,9 @@
 7teleValencia
 8madrid TV
 À Punt
-A1 Padel
 Acción (Rakuten TV)
 ACL Cornhole TV
-acontra+
+Acontra+
 Al Jazeera English HD
 Alacantí TV
 Alquiler 1
@@ -23,8 +22,6 @@ Anime Visión
 Anime Visión Classics
 Antena 3 HD
 Antena Motor
-Apartamento Sol en directo
-Apartamento Sombra en directo
 Aquí no hay quién viva
 Aragón TV
 Aragón TV Internacional
@@ -60,7 +57,6 @@ Canal Cocina
 Canal de las Estrellas
 Canal Extremadura
 Canal Extremadura SAT
-Canal Fútbol Replay
 Canal Hollywood HD
 Canal Reus TV
 Canal Sur Andalucía
@@ -89,9 +85,7 @@ CNN International Europe
 Comedia atresplayer
 Comedias (Rakuten TV)
 Comedy Central HD
-Comunidad de Vecinos en directo
 Concert Channel
-Concursos
 Cosmo HD
 Crimen (Rakuten TV)
 Cuatro HD
@@ -102,9 +96,15 @@ DARK
 Dark Rojo
 DAZN 1 BAR
 DAZN 1 HD
+DAZN 2 BAR
 DAZN 2 HD
 DAZN 3 HD
 DAZN 4 HD
+DAZN Bundesliga
+DAZN Bundesliga 2
+DAZN Bundesliga 3
+DAZN Bundesliga 4
+DAZN Bundesliga 5
 DAZN F1 BAR
 DAZN F1 HD
 DAZN LaLiga 2 HD
@@ -112,6 +112,16 @@ DAZN LaLiga 3
 DAZN LaLiga 4
 DAZN LaLiga 5
 DAZN LaLiga HD
+DAZN Liga F
+DAZN Liga F 2
+DAZN MotoGP
+DAZN Premier League
+DAZN Premier League 2
+DAZN Premier League 3
+DAZN Premier League 4
+DAZN Premier League 5
+DAZN Serie A
+DAZN Serie A 2
 DBike
 DE | ARTE
 DE | Das Erste
@@ -189,7 +199,6 @@ El Toro TV
 EmpordaTV
 En Familia (Rakuten TV)
 Energy
-Enfamilia
 Equipo de investigación
 Escapa TV
 ESPN
@@ -210,12 +219,13 @@ Eurosport 1 HD
 Eurosport 2
 Eurosport 4K
 EWTN
-Extreme Sports
+Extreme Channel
 Factoría de Ficción
 Fast&amp;FunBox
 Festival 4K
 FIFA+
 Fight Box HD
+Fight Sports
 Fight Time
 FightSports
 Flamenco Auditorio
@@ -264,22 +274,29 @@ Gametoon
 Garage TV
 Global Telenovelas
 Global Tendencias
-GOL PLAY
+GOL
+Gol Classics
 GolStadium
-GolStadium 1
 GolStadium BAR
 Gulli
+HBO Max Avances
 Historia
 Historia y Vida
-HIT TV
 Horse TV
 IB3 TV Illes Balears
 Iberalia caza
 Iberalia pesca
 Iberalia TV
 iConcerts
+Imás TV
+Infinity Comedia
+Infinity En la calle
+Infinity+ LQSA
+Infinity Top Series
+Infinity Viajes
 Información TV
 Inquietos atresplayer
+interalmería TV
 Kidz
 La 1 Canarias
 La 1 Cataluña
@@ -318,12 +335,15 @@ La Sexta HD
 LALIGA Inside
 LaLiga TV BAR 2
 LaLiga TV BAR 3
+LaLiga TV BAR 4
+LaLiga TV BAR 5
 LaLiga TV BAR HD
 LaLiga TV Hypermotion 2
 LaLiga TV Hypermotion 3
 LaLiga TV Hypermotion HD
 Levante TV
 Libertad Digital TV
+Liga de Campeones BAR 2
 Lleida TV
 Lolly Kids
 Los Conciertos de Radio 3
@@ -349,41 +369,39 @@ M+ Golf 2 HD
 M+ Golf HD
 M+ Hits HD
 M+ Indie HD
-M+ LaLiga TV 2 HD
-M+ LaLiga TV 3 HD
-M+ LaLiga TV 4
-M+ LaLiga TV 5
-M+ LaLiga TV 6
-M+ LaLiga TV HD
-M+ LaLiga TV UHD
+M+ LaLiga 2 HD
+M+ LaLiga 2 HDR
+M+ LaLiga 3 HD
+M+ LaLiga 4
+M+ LaLiga 5
+M+ LaLiga 6
+M+ LaLiga HD
+M+ LaLiga HDR
 M+ Liga de Campeones 2 HD
 M+ Liga de Campeones 2 HDR
 M+ Liga de Campeones 3 HD
+M+ Liga de Campeones 4
+M+ Liga de Campeones 5
 M+ Liga de Campeones HD
 M+ Liga de Campeones HDR
 M+ Originales HD
 M+ PopUp
 M+ PopUp 2
-M+ Thriller
-M+ Todo Chaplin
+M+ Vacaciones
 M+ Vamos HD
+M+ Wéstern
 M+ Wimbledon UHD
 M6
 Matchroom Boxing
-Max Avances
 Mega
 Mezzo
 Mezzo Live HD
-mitele comedia
-mitele en la calle
-mitele plus lqsa
-mitele top series
-mitele viajes
 Moto ADV
 Motorvision
 Motorvision TV
 Movistar Plus+ 2 HD
 Movistar Plus+ HD
+mtmad
 MTV 00s
 MTV 80s
 MTV 90s
@@ -413,6 +431,7 @@ Olot TV
 Onda Algeciras TV
 Onda Cádiz TV
 Onetoro
+Padel 24h
 Paramount Network
 PDC Darts
 Películas Románticas (Rakuten TV)
@@ -421,6 +440,7 @@ Penedès TV
 PLL Network
 Popular TV Región de Murcia
 PowerSports World
+Primera Federación
 Pro TV
 PT | Canal 11
 PT | DAZN 1
@@ -428,7 +448,6 @@ PT | DAZN 2
 PT | DAZN 3
 PT | DAZN 4
 PT | DAZN 5
-PT | DAZN 6
 PT | Eurosport 1 HD
 PT | Eurosport 2 HD
 PT | Fight Box
@@ -445,6 +464,10 @@ PT | Sport TV 6
 PT | Sport TV NBA
 PT | Sporting TV HD
 PT | TRACE Urban HD
+PTV Córdoba
+PTV Granada
+PTV Linares
+PTV Málaga
 QWest Mix
 Real Madrid TV
 Red Bull TV
@@ -502,7 +525,6 @@ TR3CE
 TRACE Latina
 TRACE Sports Stars
 TRACE Urban
-Trastero en directo
 TRECE
 TUDN (Estados Unidos)
 TUDN (México)
@@ -520,6 +542,7 @@ TVG
 TVG Europa HD
 TVG2
 tvmataró
+TVR Rioja
 TyC Sports
 UBEAT
 UCL
@@ -548,9 +571,9 @@ Vamos BAR
 Vamos BAR 2
 VE PLUS TV
 Veo7
+VinTV
 Vivid TV
 Vivir con gatos
 Vivir con perros
-VOTV
 Warner TV HD
 XTRM
