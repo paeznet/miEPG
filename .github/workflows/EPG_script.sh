@@ -44,7 +44,7 @@ do
     sed -n "/<channel id=\"${old}\">/,/<\/channel>/p" EPG_temp.xml > EPG_temp01.xml
 
     # Deja solo líneas con <icon src> (borra las demás)
-    sed -i '/<icon src/!d' EPG_temp01.xml
+    # sed -i '/<icon src/!d' EPG_temp01.xml
 
     # Si se ha especificado logo nuevo
     if [ "$logo" ]; then
