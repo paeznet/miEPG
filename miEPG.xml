@@ -701,7 +701,7 @@
 	</programme>
 	<programme start="20260115203000 +0100" stop="20260115210000 +0100" channel="La1 Elcano Antiguas">
     <title>Aquí la Tierra</title>
-    <desc>Entretenimiento,Magacín | 2025 | TP | *6.6/10
+    <desc>Entretenimiento,Magacín | 2025 | TP | *6.4/10
 · Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
 · País: España
 · Presenta: Jacob Petrus.</desc>
@@ -719,7 +719,8 @@
     <desc>Deportes,Programa deportes | 2025 | *6.0/10
 · Actualidad deportiva diaria nacional e internacional.
 · País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+· Dirección: David Moncasi.
+· Productora: Zanskar Producciones, Radio Televisión Española (RTVE).</desc>
 	</programme>
 	<programme start="20260115214500 +0100" stop="20260115230000 +0100" channel="La1 Elcano Antiguas">
     <title>La revuelta T2</title>
@@ -752,7 +753,7 @@
 	</programme>
 	<programme start="20260116030000 +0100" stop="20260116053500 +0100" channel="La1 Elcano Antiguas">
     <title>La noche en 24 horas</title>
-    <desc>Información,Informativo | 2025 | *6.2/10
+    <desc>Información,Informativo | 2025 | *6.4/10
 · Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada.
 · País: España
 · Dirección: Xabier Fortes.
@@ -1145,7 +1146,7 @@
 	</programme>
 	<programme start="20260112060000 +0100" stop="20260112075000 +0100" channel="La1 UHD Elcano Antiguas">
     <title>Telediario Matinal</title>
-    <desc>Información,Informativo | 2023 | *6.2/10
+    <desc>Información,Informativo | 2023 | TP | *6.2/10
 · Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
 · País: España
 · Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
@@ -1182,7 +1183,7 @@
 	</programme>
 	<programme start="20260112154000 +0100" stop="20260112154500 +0100" channel="La1 UHD Elcano Antiguas">
     <title>El tiempo</title>
-    <desc>Información,Meteorología | 2014 | TP | *6.4/10
+    <desc>Información,Meteorología | 2014 | *6.4/10
 · Información sobre la previsión meteorológica.
 · País: España
 · Productora: Televisión Española (TVE).</desc>
@@ -1197,7 +1198,10 @@
     <desc>Entretenimiento,Magacín | 2025 | +16 | *6.2/10
 · Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
 · País: España
-· Presenta: Marta Flich, Gonzalo Miró.</desc>
+· Presenta: Marta Flich, Gonzalo Miró.
+· Dirección: Óscar Cornejo, Ana Isabel Peces.
+· Reparto: Rosa Villacastín, Ada Colau, Marta Flich.
+· Productora: Radio Televisión Española (RTVE).</desc>
 	</programme>
 	<programme start="20260112173500 +0100" stop="20260112182500 +0100" channel="La1 UHD Elcano Antiguas">
     <title>Valle Salvaje</title>
@@ -1225,14 +1229,14 @@
 	</programme>
 	<programme start="20260112203000 +0100" stop="20260112210000 +0100" channel="La1 UHD Elcano Antiguas">
     <title>Aquí la Tierra</title>
-    <desc>Entretenimiento,Magacín | 2025 | TP | *6.6/10
+    <desc>Entretenimiento,Magacín | 2025 | TP | *6.4/10
 · Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
 · País: España
 · Presenta: Jacob Petrus.</desc>
 	</programme>
 	<programme start="20260112210000 +0100" stop="20260112214000 +0100" channel="La1 UHD Elcano Antiguas">
     <title>Telediario 2</title>
-    <desc>Información,Informativo | 2021 | *6.2/10
+    <desc>Información,Informativo | 2021 | TP | *6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
@@ -1553,7 +1557,7 @@
 	</programme>
 	<programme start="20260112150000 +0100" stop="20260112153500 +0100" channel="LA 1 FHD --> NEW ERA">
     <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | *6.2/10
+    <desc>Información,Informativo | 2014 | TP | *6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
@@ -1568,7 +1572,7 @@
 	</programme>
 	<programme start="20260112154000 +0100" stop="20260112154500 +0100" channel="LA 1 FHD --> NEW ERA">
     <title>El tiempo</title>
-    <desc>Información,Meteorología | 2014 | TP | *6.4/10
+    <desc>Información,Meteorología | 2014 | *6.4/10
 · Información sobre la previsión meteorológica.
 · País: España
 · Productora: Televisión Española (TVE).</desc>
@@ -1611,7 +1615,7 @@
 	</programme>
 	<programme start="20260112203000 +0100" stop="20260112210000 +0100" channel="LA 1 FHD --> NEW ERA">
     <title>Aquí la Tierra</title>
-    <desc>Entretenimiento,Magacín | 2025 | TP | *6.6/10
+    <desc>Entretenimiento,Magacín | 2025 | TP | *6.4/10
 · Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
 · País: España
 · Presenta: Jacob Petrus.</desc>
@@ -1750,7 +1754,7 @@
 	</programme>
 	<programme start="20260113210000 +0100" stop="20260113214000 +0100" channel="LA 1 FHD --> NEW ERA">
     <title>Telediario 2</title>
-    <desc>Información,Informativo | 2021 | TP | *6.2/10
+    <desc>Información,Informativo | 2021 | *6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
@@ -1758,7 +1762,7 @@
 	</programme>
 	<programme start="20260113214000 +0100" stop="20260113214500 +0100" channel="LA 1 FHD --> NEW ERA">
     <title>Deportes 2</title>
-    <desc>Deportes,Programa deportes | 2025 | *6.0/10
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
 · Actualidad deportiva diaria nacional e internacional.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
@@ -1929,14 +1933,14 @@
     <desc>Entretenimiento,Humor | 2025 | +12 | *6.2/10
 · Andreu Buenafuente da su visión de los temas del mundo que le llaman la atención: un análisis irónico sobre la realidad cotidiana con el toque personal de Andreu y su equipo de guionistas.
 · País: España
-· Presenta: Andreu Buenafuente.</desc>
+· Dirección: Miguel Ángel Sacaluga.</desc>
 	</programme>
 	<programme start="20260116012100 +0100" stop="20260116030000 +0100" channel="LA 1 FHD --> NEW ERA">
     <title>Futuro imperfecto</title>
     <desc>Entretenimiento,Humor | 2025 | +12 | *6.0/10
 · Andreu Buenafuente da su visión de los temas del mundo que le llaman la atención: un análisis irónico sobre la realidad cotidiana con el toque personal de Andreu y su equipo de guionistas.
 · País: España
-· Presenta: Andreu Buenafuente.</desc>
+· Dirección: Pedro Santos.</desc>
 	</programme>
 	<programme start="20260116030000 +0100" stop="20260116053500 +0100" channel="LA 1 FHD --> NEW ERA">
     <title>La noche en 24 horas</title>
@@ -3467,16 +3471,15 @@
 · Cuatro concursantes anónimos unirán sus conocimientos para ganar al 'cazador'.
 · País: España
 · Presenta: Rodrigo Vázquez.
-· Productora: Mediacrest, Radio Televisión Española (RTVE).</desc>
+· Productora: Radio Televisión Española (RTVE), Mediacrest.</desc>
 	</programme>
 	<programme start="20260113144500 +0100" stop="20260113153000 +0100" channel="LA 2 FHD --> NEW ERA">
     <title>Saber y ganar</title>
     <desc>Entretenimiento,Concurso | 2024 | TP | *6.0/10
 · Concurso cultural de preguntas con tres participantes, que se tienen que eliminar entre sí.
 · País: España
-· Presenta: Jordi Hurtado.
-· Dirección: Sergi Schaaff.
-· Productora: Quart.</desc>
+· Presenta: Rodrigo Vázquez.
+· Productora: Radio Televisión Española (RTVE), Mediacrest.</desc>
 	</programme>
 	<programme start="20260113153000 +0100" stop="20260113162000 +0100" channel="LA 2 FHD --> NEW ERA">
     <title>Saber y ganar T29</title>
@@ -3513,14 +3516,16 @@
     <desc>Ocio y Aficiones,Decoración | 2017 | TP | *6.0/10
 · Los propietarios de viviendas sin salida al mar dejan atrás los suburbios para vivir en impresionantes casas acuáticas que flotan en el agua.
 · País: Reino Unido
-· Productora: Windfall Films.</desc>
+· Dirección: Catherine Abbott.
+· Reparto: David Suchet.
+· Productora: Soho Studios Entertainment, Two Rivers Media.</desc>
 	</programme>
 	<programme start="20260113202000 +0100" stop="20260113210500 +0100" channel="LA 2 FHD --> NEW ERA">
     <title>Escapadas extraordinarias</title>
     <desc>Ocio y Aficiones,Viajes | 2021 | TP | *6.2/10
 · Sandi Toksvig recorre algunos de los destinos vacacionales más remotos y hermosos del Reino Unido, acompañada por algunas de sus mujeres favoritas.
 · País: Reino Unido
-· Presenta: Sandi Toksvig.</desc>
+· Presenta: Kevin McCloud.</desc>
 	</programme>
 	<programme start="20260113210500 +0100" stop="20260113213500 +0100" channel="LA 2 FHD --> NEW ERA">
     <title>Cifras y letras T2</title>
@@ -3594,7 +3599,7 @@
     <desc>Ocio y Aficiones,Decoración | 2016 | TP | *6.0/10
 · Los propietarios de viviendas sin salida al mar dejan atrás los suburbios para vivir en impresionantes casas acuáticas que flotan en el agua.
 · País: Reino Unido
-· Productora: Windfall Films.</desc>
+· Presenta: Bettany Hughes.</desc>
 	</programme>
 	<programme start="20260114040500 +0100" stop="20260114050000 +0100" channel="LA 2 FHD --> NEW ERA">
     <title>Maravillas del mundo antiguo</title>
@@ -4134,7 +4139,7 @@
     <desc>Ocio y Aficiones,Ocio y cultura | 2017 | TP | *6.0/10
 · Espacio semanal dedicado a destacar y analizar el estilo de vida actual proponiendo reportajes de interiorismo, moda, restauración o cosmética. Aquellas tendencias que marcan la forma de ser hoy en día, serán tratadas en el programa.
 · País: España
-· Dirección: Mercedes Cámara.</desc>
+· Dirección: Lola Hernández.</desc>
 	</programme>
 	<programme start="20260111130500 +0100" stop="20260111133000 +0100" channel="la 2">
     <title>Flash Moda</title>
@@ -7060,7 +7065,8 @@
     <title lang="pl">Z archiwum LaLiga</title>
     <desc lang="pl">Rywalizacja w LaLiga kojarzona jest z walką dwóch futbolowych gigantów - Realu Madryt z FC Barceloną, w których składach występowali najwięksi piłkarze świata. Liga hiszpańska to nie tylko El Clasico.</desc>
     <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796022.jpg" />
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3999513.jpg" />
+    <episode-num system="onscreen">E12</episode-num>
   </programme>
   <programme start="20250409060000 +0200" stop="20250409080000 +0200" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Piłka nożna: Liga włoska - mecz: Parma Calcio - Inter Mediolan</title>
@@ -7370,7 +7376,7 @@
     <sub-title lang="pl">Marcos Senna</sub-title>
     <desc lang="pl">Twórcy programu typują najlepszą jedenastkę piłkarzy, którzy zapisali się złotymi zgłoskami w historii Primera Division.</desc>
     <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5619003.jpg" />
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
   </programme>
   <programme start="20250405182000 +0200" stop="20250405204000 +0200" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Piłka nożna: Liga niemiecka - mecz: Werder Brema - Eintracht Frankfurt</title>
@@ -7497,7 +7503,7 @@
     <title lang="pl">Hugo Sanchez</title>
     <desc lang="pl">Hugo Sanchez to symbol Realu Madryt drugiej połowy lat 80. Meksykanin był niezwykle skutecznym zawodnikiem - w sezonie 1989/1990 strzelił 38 goli i został najlepszym strzelcem Europy.</desc>
     <category lang="pl">film dokumentalny</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984456.jpg" />
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796010.jpg" />
   </programme>
   <programme start="20250407000000 +0200" stop="20250407020000 +0200" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Piłka nożna: Liga hiszpańska - mecz: FC Barcelona - Real Betis Balompie</title>
@@ -7551,8 +7557,7 @@
   <programme start="20250407100000 +0200" stop="20250407104000 +0200" channel="Eleven Sports 2 Polonia">
     <title lang="pl">LaLiga Power</title>
     <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901250.jpg" />
-    <episode-num system="onscreen">E21</episode-num>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795914.jpg" />
   </programme>
   <programme start="20250407104000 +0200" stop="20250407120000 +0200" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Eleven Gol Live</title>
