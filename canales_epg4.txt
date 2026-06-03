@@ -730,6 +730,8 @@ PPV Event 4 HD,PPV Event 4 HD,http://epg.ovh/logo/PPV+Event+4+HD.png
 PPV Event 5 HD,PPV Event 5 HD,http://epg.ovh/logo/PPV+Event+5+HD.png
 TVC Reality,TVC Reality,http://epg.ovh/logo/TVC+Reality.png
 NOW 90s,NOW 90s,http://epg.ovh/logo/NOW+90s.png
+NOW ROCK,NOW ROCK,http://epg.ovh/logo/NOW+ROCK.png
+NOW 70s,NOW 70s,http://epg.ovh/logo/NOW+70s.png
 NOW 80s,NOW 80s,http://epg.ovh/logo/NOW+80s.png
 NOW 90s 00s,NOW 90s 00s,http://epg.ovh/logo/NOW+90s+00s.png
 MTV Classic,MTV Classic,http://epg.ovh/logo/MTV+Classic.png
