@@ -330,8 +330,8 @@ La Promesa,La Promesa,https://raw.githubusercontent.com/davidmuma/picons_dobleM/
 La Revuelta,La Revuelta,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Revuelta.png
 Somos Cine,Somos Cine,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Somos%20Cine.png
 Cuéntame,Cuéntame,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cu%C3%A9ntame.png
-Saber y ganar,Saber y ganar,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Saber%20y%20ganar.png
 Los Conciertos de Radio 3,Los Conciertos de Radio 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Los%20Conciertos%20de%20Radio%203.png
+Feria del libro,Feria del libro,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Feria%20del%20libro.png
 TV3 Catalunya,TV3 Catalunya,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV3%20Catalunya.png
 3CatInfo Catalunya,3CatInfo Catalunya,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/3CatInfo%20Catalunya.png
 SX3 Catalunya,SX3 Catalunya,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SX3%20Catalunya.png
@@ -421,7 +421,6 @@ Sony One Hits Comedia,Sony One Hits Comedia,https://tvpnlogopeu.samsungcloud.tv/
 Sony One Hits Acción,Sony One Hits Acción,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300006QJ_20251111T011921SQUARE.png
 Mr Bean Animated,Mr Bean Animated,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES900001SH_20250923T011557SQUARE.png
 Tennis+,Tennis+,https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png
-FashionTV,FashionTV,https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png
 Liga de Campeones BAR 2,Liga de Campeones BAR 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%202.png
 Liga de Campeones BAR 3,Liga de Campeones BAR 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%203.png
 Liga de Campeones BAR 4,Liga de Campeones BAR 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%204.png
@@ -453,7 +452,9 @@ DAZN Copa Mundial de FIFA,DAZN Copa Mundial de FIFA,https://image.discovery.inda
 Sky News International,Sky News International,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20News%20International.png
 Arirang TV HD,Arirang TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arirang%20TV.png
 1+1 International,1+1 International,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/1%2B1%20International.png
-100% Navidad (Rakuten TV),100% Navidad (Rakuten TV),https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/33827624-56e3-464f-8763-9e634babe552.png
+En Familia (Rakuten TV),En Familia (Rakuten TV),
+Estilo y Vida (Rakuten TV),Estilo y Vida (Rakuten TV),
+Sci-Fi (Rakuten TV),Sci-Fi (Rakuten TV),
 Todo Crimen (Rakuten TV),Todo Crimen (Rakuten TV),https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e058d349-db97-4c0b-a9dd-477147a1d473.png
 Crimen (Rakuten TV),Crimen (Rakuten TV),
 Thrillers (Rakuten TV),Thrillers (Rakuten TV),https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/5728a608-5527-4d19-a4cc-18ca9f019688.png
@@ -467,12 +468,13 @@ Pelis Top (Rakuten TV),Pelis Top (Rakuten TV),https://images-0.rakuten.tv/storag
 Red Bull TV (Rakuten TV),Red Bull TV (Rakuten TV),https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/b03ad405-231f-44f4-90ea-5fdacaf2a06c.png
 FIFA+,FIFA+,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e2bc4647-5158-44b1-a14e-6b541ed03997.png
 DSPORTS,DSPORTS,https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png
-DSPORTS 2,DSPORTS 2,https://dsports-widgets.tbxnet.com/assets/images/channels/1611.png
+DSPORTS 2,DSPORTS 2,https://dsports-widgets.tbxnet.com/assets/images/channels/1612.png
+DSPORTS+,DSPORTS+,https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png
 DSPORTS Motor,DSPORTS Motor,https://dsports-widgets.tbxnet.com/assets/images/channels/1614.png
 DSPORTS Fight,DSPORTS Fight,https://dsports-widgets.tbxnet.com/assets/images/channels/1615.png
-DSPORTS 6,DSPORTS 6,https://dsports-widgets.tbxnet.com/assets/images/channels/1616.png
-DSPORTS 7,DSPORTS 7,https://dsports-widgets.tbxnet.com/assets/images/channels/1617.png
-DSPORTS 8,DSPORTS 8,https://dsports-widgets.tbxnet.com/assets/images/channels/1618.png
+DSPORTS 3,DSPORTS 3,https://dsports-widgets.tbxnet.com/assets/images/channels/1616.png
+DSPORTS 4,DSPORTS 4,https://dsports-widgets.tbxnet.com/assets/images/channels/1617.png
+DSPORTS 5,DSPORTS 5,https://dsports-widgets.tbxnet.com/assets/images/channels/1618.png
 beIN SPORTS en español,beIN SPORTS en español,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20en%20espa%C3%B1ol.png
 beIN SPORTS XTRA ñ,beIN SPORTS XTRA ñ,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20XTRA%20%C3%B1.png
 CNN en Español,CNN en Español,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CNN%20en%20Espa%C3%B1ol.png
