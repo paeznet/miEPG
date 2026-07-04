@@ -761,6 +761,7 @@ TVP Kryminaly,TVP Kryminaly,http://epg.ovh/logo/TVP+Kryminaly.png
 TVP Klan,TVP Klan,http://epg.ovh/logo/TVP+Klan.png
 TVP Barwy Szczescia,TVP Barwy Szczescia,http://epg.ovh/logo/TVP+Barwy+Szczescia.png
 TVP NA DOBRE I NA ZLE,TVP NA DOBRE I NA ZLE,http://epg.ovh/logo/TVP+NA+DOBRE+I+NA+ZLE.png
+Newsmax Polska,Newsmax Polska,http://epg.ovh/logo/Newsmax+Polska.png
 Super Express,Super Express,http://epg.ovh/logo/Super+Express.png
 Sky UHD Sports 1,Sky UHD Sports 1,http://epg.ovh/logo/Sky+UHD+Sports+1.png
 Sky UHD Sports 2,Sky UHD Sports 2,http://epg.ovh/logo/Sky+UHD+Sports+2.png
@@ -790,3 +791,8 @@ Pixel TV,Pixel TV,http://epg.ovh/logo/Pixel+TV.png
 Wedotv Auta,Wedotv Auta,http://epg.ovh/logo/Wedotv+Auta.png
 Kanal Zero TV,Kanal Zero TV,http://epg.ovh/logo/Kanal+Zero+TV.png
 V90 HD,V90 HD,http://epg.ovh/logo/V90+HD.png
+NOW 80s,NOW 80s,http://epg.ovh/logo/NOW+80s.png
+NOW 90s 00s,NOW 90s 00s,http://epg.ovh/logo/NOW+90s+00s.png
+Euronews Polska,Euronews Polska,http://epg.ovh/logo/Euronews+Polska.png
+Newsmax Polska,Newsmax Polska,http://epg.ovh/logo/Newsmax+Polska.png
+TVP Kryminaly,TVP Kryminaly,http://epg.ovh/logo/TVP+Kryminaly.png
