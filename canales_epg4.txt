@@ -514,8 +514,6 @@ TVN Kulinarne Podróże Online,TVN Kulinarne Podróże Online,http://epg.ovh/log
 Bein Sports 1,Bein Sports 1,http://epg.ovh/logo/Bein+Sports+1.png
 Bein Sports 2,Bein Sports 2,http://epg.ovh/logo/Bein+Sports+2.png
 Bein Sports 3,Bein Sports 3,http://epg.ovh/logo/Bein+Sports+3.png
-Bein Sports 4,Bein Sports 4,http://epg.ovh/logo/Bein+Sports+4.png
-Bein Sports 5,Bein Sports 5,http://epg.ovh/logo/Bein+Sports+5.png
 Canal+ UHD FR,Canal+ UHD FR,http://epg.ovh/logo/Canal%2b+UHD+FR.png
 Canal+ Foot,Canal+ Foot,http://epg.ovh/logo/Canal%2b+Foot.png
 Canal+ 360 sport,Canal+ 360 sport,http://epg.ovh/logo/Canal%2b+360+sport.png
@@ -742,18 +740,7 @@ Event AppleTV 7,Event AppleTV 7,http://epg.ovh/logo/Event+AppleTV+7.png
 Event AppleTV 8,Event AppleTV 8,http://epg.ovh/logo/Event+AppleTV+8.png
 Event AppleTV 9,Event AppleTV 9,http://epg.ovh/logo/Event+AppleTV+9.png
 Event AppleTV 10,Event AppleTV 10,http://epg.ovh/logo/Event+AppleTV+10.png
-Bein Sports 1,Bein Sports 1,http://epg.ovh/logo/Bein+Sports+1.png
-Bein Sports 2,Bein Sports 2,http://epg.ovh/logo/Bein+Sports+2.png
-Bein Sports 3,Bein Sports 3,http://epg.ovh/logo/Bein+Sports+3.png
-Radio 357,Radio 357,http://epg.ovh/logo/Radio+357.png
-Radio Nowy Swiat,Radio Nowy Świat,http://epg.ovh/logo/Radio+Nowy+Swiat.png
-Polskie Radio Trojka,Polskie Radio Trojka,http://epg.ovh/logo/Polskie+Radio+Trojka.png
-Super Express,Super Express,http://epg.ovh/logo/Super+Express.png
-Pogoda24 TV,Pogoda24 TV,http://epg.ovh/logo/Pogoda24+TV.png
-TVC Super,TVC Super,http://epg.ovh/logo/TVC+Super.png
-Quadro 4K,Quadro 4K,http://epg.ovh/logo/Quadro+4K.png
-Vevo 80s,Vevo 80s,http://epg.ovh/logo/Vevo+80s.png
-Vevo 90s,Vevo 90s,http://epg.ovh/logo/Vevo+90s.png
-Vevo Country,Vevo Country,http://epg.ovh/logo/Vevo+Country.png
-Vevo Hip-Hop,Vevo Hip-Hop,http://epg.ovh/logo/Vevo+Hip-Hop.png
-Vevo Pop,Vevo Pop,http://epg.ovh/logo/Vevo+Pop.png
+Polsat GO 1,Polsat GO 1,http://epg.ovh/logo/Polsat+GO+1.png
+TVP Sport Extra,TVP Sport Extra,http://epg.ovh/logo/TVP+Sport+Extra.png
+Eurosport Extra,Eurosport Extra,http://epg.ovh/logo/Eurosport+Extra.png
+Event AppleTV 1,Event AppleTV 1,http://epg.ovh/logo/Event+AppleTV+1.png
