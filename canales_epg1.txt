@@ -458,15 +458,7 @@ DAZN Bundesliga 3,DAZN Bundesliga 3,https://image.discovery.indazn.com/eu/v4/onb
 DAZN Bundesliga 4,DAZN Bundesliga 4,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g
 DAZN Bundesliga 5,DAZN Bundesliga 5,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g
 DAZN LALIGA EA SPORTS,DAZN LALIGA EA SPORTS,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g
-DAZN LALIGA EA SPORTS 10,DAZN LALIGA EA SPORTS 10,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g
 DAZN LALIGA EA SPORTS 2,DAZN LALIGA EA SPORTS 2,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g
-DAZN LALIGA EA SPORTS 3,DAZN LALIGA EA SPORTS 3,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g
-DAZN LALIGA EA SPORTS 4,DAZN LALIGA EA SPORTS 4,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g
-DAZN LALIGA EA SPORTS 5,DAZN LALIGA EA SPORTS 5,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g
-DAZN LALIGA EA SPORTS 6,DAZN LALIGA EA SPORTS 6,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g
-DAZN LALIGA EA SPORTS 7,DAZN LALIGA EA SPORTS 7,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g
-DAZN LALIGA EA SPORTS 8,DAZN LALIGA EA SPORTS 8,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g
-DAZN LALIGA EA SPORTS 9,DAZN LALIGA EA SPORTS 9,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g
 DAZN Liga F,DAZN Liga F,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g
 DAZN Liga F 2,DAZN Liga F 2,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g
 DAZN Liga F 3,DAZN Liga F 3,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g
