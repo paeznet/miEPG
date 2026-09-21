@@ -584,7 +584,7 @@ Sport TV 4,Sport TV 4,http://epg.ovh/logo/Sport+TV+4.png
 Sport TV 5,Sport TV 5,http://epg.ovh/logo/Sport+TV+5.png
 Sport TV 6,Sport TV 6,http://epg.ovh/logo/Sport+TV+6.png
 Sky Sports Main Event UHD,Sky Sports Main Event UHD,http://epg.ovh/logo/Sky+Sports+Main+Event+UHD.png
-Sky Sports F1 UHD,Sky Sports F1 UHD,
+Sky Sports F1 UHD,Sky Sports F1 UHD,http://epg.ovh/logo/Sky+Sports+F1+UHD.png
 Sky Sports +,Sky Sports +,http://epg.ovh/logo/Sky+Sports+%2b.png
 UFC Fight Pass,UFC Fight Pass,http://epg.ovh/logo/UFC+Fight+Pass.png
 PMC HD,PMC HD,http://epg.ovh/logo/PMC+HD.png
