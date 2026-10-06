@@ -785,3 +785,9 @@ Sky Sport UHD,Sky Sport UHD,http://epg.ovh/logo/Sky+Sport+UHD.png
 Emocje TV,Emocje TV,http://epg.ovh/logo/Emocje+TV.png
 Kanal Zero TV,Kanal Zero TV,http://epg.ovh/logo/Kanal+Zero+TV.png
 Clubland TV,Clubland TV,http://epg.ovh/logo/Clubland+TV.png
+Show TV,Show TV,http://epg.ovh/logo/Show+TV.png
+Red Carpet,Red Carpet,http://epg.ovh/logo/Red+Carpet.png
+Vantage Music,Vantage Music,http://epg.ovh/logo/Vantage+Music.png
+Vantage Dance,Vantage Dance,http://epg.ovh/logo/Vantage+Dance.png
+Vantage Rock,Vantage Rock,http://epg.ovh/logo/Vantage+Rock.png
+Vantage Classic,Vantage Classic,http://epg.ovh/logo/Vantage+Classic.png
