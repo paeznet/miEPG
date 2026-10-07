@@ -147,8 +147,6 @@ StudioMed TV,StudioMed TV,http://epg.ovh/logo/StudioMed+TV.png
 TVN Style,TVN Style,http://epg.ovh/logo/TVN+Style.png
 Polsat Café,Polsat Café,http://epg.ovh/logo/Polsat+Caf%c3%a9.png
 Polsat Rodzina,Polsat Rodzina,http://epg.ovh/logo/Polsat+Rodzina.png
-Show TV,Show TV,http://epg.ovh/logo/Show+TV.png
-Red Carpet,Red Carpet,http://epg.ovh/logo/Red+Carpet.png
 ViDoc TV1,ViDoc TV1,http://epg.ovh/logo/ViDoc+TV1.png
 Love,Love,http://epg.ovh/logo/Love.png
 Travel Channel,Travel Channel,http://epg.ovh/logo/Travel+Channel.png
@@ -538,34 +536,34 @@ FAN Klub,FAN Klub,http://epg.ovh/logo/FAN+Klub.png
 Polsat Film 2,Polsat Film 2,http://epg.ovh/logo/Polsat+Film+2.png
 Polsat Reality,Polsat Reality,http://epg.ovh/logo/Polsat+Reality.png
 Polsat X,Polsat X,http://epg.ovh/logo/Polsat+X.png
-Sky Sports Premier League,Sky Sports Premier League,http://epg.ovh/logo/Sky+Sports+Premier+League.png
+Sky Sports Premier League,Sky Sports Premier League,http://epg.ovh
 Sky UHD Sports 1,Sky UHD Sports 1,http://epg.ovh/logo/Sky+UHD+Sports+1.png
 Sky UHD Sports 2,Sky UHD Sports 2,http://epg.ovh/logo/Sky+UHD+Sports+2.png
 Sky Sports Arena,Sky Sports Arena,http://epg.ovh/logo/Sky+Sports+Arena.png
 Sky Sports Cricket,Sky Sports Cricket,http://epg.ovh/logo/Sky+Sports+Cricket.png
 Sky Sports F1,Sky Sports F1,http://epg.ovh/logo/Sky+Sports+F1.png
-Sky Sports Football,Sky Sports Football,http://epg.ovh/logo/Sky+Sports+Football.png
+Sky Sports Football,Sky Sports Football,http://epg.ovh
 Sky Sports Golf,Sky Sports Golf,http://epg.ovh/logo/Sky+Sports+Golf.png
-Sky Sports Main Event,Sky Sports Main Event,http://epg.ovh/logo/Sky+Sports+Main+Event.png
+Sky Sports Main Event,Sky Sports Main Event,http://epg.ovh
 Sky Sports Mix,Sky Sports Mix,http://epg.ovh/logo/Sky+Sports+Mix.png
 Sky Sports News,Sky Sports News,http://epg.ovh/logo/Sky+Sports+News.png
 Sky Sports Action,Sky Sports Action,http://epg.ovh/logo/Sky+Sports+Action.png
-Sky Sports Racing,Sky Sports Racing,http://epg.ovh/logo/Sky+Sports+Racing.png
+Sky Sports Racing,Sky Sports Racing,http://epg.ovh
 Sky Sports Tennis,Sky Sports Tennis,http://epg.ovh/logo/Sky+Sports+Tennis.png
 VSport 1 HD,VSport 1 HD,http://epg.ovh/logo/VSport+1+HD.png
 VSport Vinter HD,VSport Vinter HD,http://epg.ovh/logo/VSport+Vinter+HD.png
 VSport Extra HD,VSport Extra HD,http://epg.ovh/logo/VSport+Extra+HD.png
-TNT Sports 1,TNT Sports 1,http://epg.ovh/logo/TNT+Sports+1.png
-TNT Sports 2,TNT Sports 2,http://epg.ovh/logo/TNT+Sports+2.png
-TNT Sports 3,TNT Sports 3,http://epg.ovh/logo/TNT+Sports+3.png
-TNT Sports 4,TNT Sports 4,http://epg.ovh/logo/TNT+Sports+4.png
-TNT Sports 5,TNT Sports 5,http://epg.ovh/logo/TNT+Sports+5.png
-TNT Sports 6,TNT Sports 6,http://epg.ovh/logo/TNT+Sports+6.png
-TNT Sports 7,TNT Sports 7,http://epg.ovh/logo/TNT+Sports+7.png
-TNT Sports 8,TNT Sports 8,http://epg.ovh/logo/TNT+Sports+8.png
-TNT Sports 9,TNT Sports 9,http://epg.ovh/logo/TNT+Sports+9.png
-TNT Sports 10,TNT Sports 10,http://epg.ovh/logo/TNT+Sports+10.png
-TNT Sports Ultimate,TNT Sports Ultimate,http://epg.ovh/logo/TNT+Sports+Ultimate.png
+TNT Sports 1,TNT Sports 1,http://epg.ovh
+TNT Sports 2,TNT Sports 2,http://epg.ovh
+TNT Sports 3,TNT Sports 3,http://epg.ovh
+TNT Sports 4,TNT Sports 4,http://epg.ovh
+TNT Sports 5,TNT Sports 5,http://epg.ovh
+TNT Sports 6,TNT Sports 6,http://epg.ovh
+TNT Sports 7,TNT Sports 7,http://epg.ovh
+TNT Sports 8,TNT Sports 8,http://epg.ovh
+TNT Sports 9,TNT Sports 9,http://epg.ovh
+TNT Sports 10,TNT Sports 10,http://epg.ovh
+TNT Sports Ultimate,TNT Sports Ultimate,http://epg.ovh
 FighTime,FighTime,http://epg.ovh/logo/FighTime.png
 Dazn Event 1,Dazn Event 1,http://epg.ovh/logo/Dazn+Event+1.png
 Dazn Event 2,Dazn Event 2,http://epg.ovh/logo/Dazn+Event+2.png
@@ -591,7 +589,7 @@ Sport TV 3,Sport TV 3,http://epg.ovh/logo/Sport+TV+3.png
 Sport TV 4,Sport TV 4,http://epg.ovh/logo/Sport+TV+4.png
 Sport TV 5,Sport TV 5,http://epg.ovh/logo/Sport+TV+5.png
 Sport TV 6,Sport TV 6,http://epg.ovh/logo/Sport+TV+6.png
-Sky Sports Main Event UHD,Sky Sports Main Event UHD,http://epg.ovh/logo/Sky+Sports+Main+Event+UHD.png
+Sky Sports Main Event UHD,Sky Sports Main Event UHD,http://epg.ovh
 Sky Sports F1 UHD,Sky Sports F1 UHD,http://epg.ovh/logo/Sky+Sports+F1+UHD.png
 Sky Sports +,Sky Sports +,http://epg.ovh/logo/Sky+Sports+%2b.png
 UFC Fight Pass,UFC Fight Pass,http://epg.ovh/logo/UFC+Fight+Pass.png
@@ -601,8 +599,8 @@ VOD 206,VOD 206,http://epg.ovh/logo/VOD+206.png
 VOD 207,VOD 207,http://epg.ovh/logo/VOD+207.png
 VOD 208,VOD 208,http://epg.ovh/logo/VOD+208.png
 RETRO,RETRO,http://epg.ovh/logo/RETRO.png
-LEO TV,LEO TV,http://epg.ovh/logo/LEO+TV.png
-Leo TV Gold,Leo TV Gold,http://epg.ovh/logo/Leo+TV+Gold.png
+LEO TV,LEO TV,http://epg.ovh
+Leo TV Gold,Leo TV Gold,http://epg.ovh
 Eurosport 4K CZ,Eurosport 4K CZ,http://epg.ovh/logo/Eurosport+4K+CZ.png
 TVN 24+ live 1,TVN 24+ live 1,http://epg.ovh/logo/TVN+24%2b+live+1.png
 TVN 24+ live 2,TVN 24+ live 2,http://epg.ovh/logo/TVN+24%2b+live+2.png
@@ -612,10 +610,10 @@ WebCamera,WebCamera,http://epg.ovh/logo/WebCamera.png
 MCM Top,MCM Top,http://epg.ovh/logo/MCM+Top.png
 NRJ Hits,NRJ Hits,http://epg.ovh/logo/NRJ+Hits.png
 M6 Music,M6 Music,http://epg.ovh/logo/M6+Music.png
-RMC Sport 1,RMC Sport 1,http://epg.ovh/logo/RMC+Sport+1.png
-RMC Sport 2,RMC Sport 2,http://epg.ovh/logo/RMC+Sport+2.png
-RMC Sport 3,RMC Sport 3,http://epg.ovh/logo/RMC+Sport+3.png
-RMC Sport 4,RMC Sport 4,http://epg.ovh/logo/RMC+Sport+4.png
+RMC Sport 1,RMC Sport 1,http://epg.ovh
+RMC Sport 2,RMC Sport 2,http://epg.ovh
+RMC Sport 3,RMC Sport 3,http://epg.ovh
+RMC Sport 4,RMC Sport 4,http://epg.ovh
 TVP Sport Extra,TVP Sport Extra,http://epg.ovh/logo/TVP+Sport+Extra.png
 Eurosport Extra,Eurosport Extra,http://epg.ovh/logo/Eurosport+Extra.png
 Eurosport Extra 1,Eurosport Extra 1,http://epg.ovh/logo/Eurosport+Extra+1.png
@@ -679,7 +677,7 @@ PPV Event 4 HD,PPV Event 4 HD,http://epg.ovh/logo/PPV+Event+4+HD.png
 PPV Event 5 HD,PPV Event 5 HD,http://epg.ovh/logo/PPV+Event+5+HD.png
 TVC Reality,TVC Reality,http://epg.ovh/logo/TVC+Reality.png
 TVC Super,TVC Super,http://epg.ovh/logo/TVC+Super.png
-NOW 90s,NOW 90s,http://epg.ovh/logo/NOW+90s.png
+NOW 90s,NOW 90s,http://epg.ovh
 NOW ROCK,NOW ROCK,http://epg.ovh/logo/NOW+ROCK.png
 NOW 70s,NOW 70s,http://epg.ovh/logo/NOW+70s.png
 NOW 80s,NOW 80s,http://epg.ovh/logo/NOW+80s.png
@@ -768,7 +766,17 @@ Canal+ Sport 7,Canal+ Sport 7,http://epg.ovh/logo/Canal%2b+Sport+7.png
 Sky Sport NFL,Sky Sport NFL,http://epg.ovh/logo/Sky+Sport+NFL.png
 Current Time,Current Time,http://epg.ovh/logo/Current+Time.png
 NHK WORLD-JAPAN,NHK WORLD-JAPAN,http://epg.ovh/logo/NHK+WORLD-JAPAN.png
-Clubland TV,Clubland TV,http://epg.ovh/logo/Clubland+TV.png
+Clubland TV,Clubland TV,http://epg.ovh
+TNT Sports 1,TNT Sports 1,http://epg.ovh/logo/TNT+Sports+1.png
+TNT Sports 2,TNT Sports 2,http://epg.ovh/logo/TNT+Sports+2.png
+TNT Sports 3,TNT Sports 3,http://epg.ovh/logo/TNT+Sports+3.png
+TNT Sports 4,TNT Sports 4,http://epg.ovh/logo/TNT+Sports+4.png
+TNT Sports 5,TNT Sports 5,http://epg.ovh/logo/TNT+Sports+5.png
+TNT Sports 6,TNT Sports 6,http://epg.ovh/logo/TNT+Sports+6.png
+TNT Sports 7,TNT Sports 7,http://epg.ovh/logo/TNT+Sports+7.png
+TNT Sports 8,TNT Sports 8,http://epg.ovh/logo/TNT+Sports+8.png
+TNT Sports 9,TNT Sports 9,http://epg.ovh/logo/TNT+Sports+9.png
+TNT Sports 10,TNT Sports 10,http://epg.ovh/logo/TNT+Sports+10.png
 Radio 357,Radio 357,http://epg.ovh/logo/Radio+357.png
 Radio Nowy Swiat,Radio Nowy Swiat,http://epg.ovh/logo/Radio+Nowy+Swiat.png
 Polskie Radio Trojka,Polskie Radio Trojka,http://epg.ovh/logo/Polskie+Radio+Trojka.png
