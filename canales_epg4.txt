@@ -792,19 +792,4 @@ Kanal Zero TV,Kanal Zero TV,http://epg.ovh/logo/Kanal+Zero+TV.png
 Clubland TV,Clubland TV,http://epg.ovh/logo/Clubland+TV.png
 Show TV,Show TV,http://epg.ovh/logo/Show+TV.png
 Red Carpet,Red Carpet,http://epg.ovh/logo/Red+Carpet.png
-Stan Sport,Stan Sport,http://epg.ovh/logo/Stan+Sport.png
-Stan Sport 1,Stan Sport 1,http://epg.ovh/logo/Stan+Sport+1.png
-Stan Sport 2,Stan Sport 2,http://epg.ovh/logo/Stan+Sport+2.png
-Stan Sport 3,Stan Sport 3,http://epg.ovh/logo/Stan+Sport+3.png
-Stan Sport 4,Stan Sport 4,http://epg.ovh/logo/Stan+Sport+4.png
-Stan Sport 5,Stan Sport 5,http://epg.ovh/logo/Stan+Sport+5.png
-Stan Sport 6,Stan Sport 6,http://epg.ovh/logo/Stan+Sport+6.png
-Stan Sport 7,Stan Sport 7,http://epg.ovh/logo/Stan+Sport+7.png
-Stan Sport 8,Stan Sport 8,http://epg.ovh/logo/Stan+Sport+8.png
-Stan Sport 9,Stan Sport 9,http://epg.ovh/logo/Stan+Sport+9.png
-Stan Sport 10,Stan Sport 10,http://epg.ovh/logo/Stan+Sport+10.png
-Stan Sport 11,Stan Sport 11,http://epg.ovh/logo/Stan+Sport+11.png
-Stan Sport 12,Stan Sport 12,http://epg.ovh/logo/Stan+Sport+12.png
-Stan Sport 13,Stan Sport 13,http://epg.ovh/logo/Stan+Sport+13.png
-Stan Sport 14,Stan Sport 14,http://epg.ovh/logo/Stan+Sport+14.png
-Stan Sport 15,Stan Sport 15,http://epg.ovh/logo/Stan+Sport+15.png
+Kronehit TV,Kronehit TV,http://epg.ovh/logo/Kronehit+TV.png
